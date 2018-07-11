@@ -9,8 +9,8 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
-  first_student_by_index = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"] 
-  return first_student_by_index[0]
+  first_student = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"] 
+  return first_student[0]
 end
 
 def fourth_student_by_index
